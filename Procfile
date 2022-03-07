@@ -1,0 +1,1 @@
+web gunicorn artpage.wsgi:application --log-file -
